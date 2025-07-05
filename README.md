@@ -96,10 +96,10 @@ Your Vertex/Gemini keys
 python new.py
 ```
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Model Context Protocol (MCP)
 Gemini / Vertex AI
 Airbnb (for test scraping/search)
 
-✍️ Author
-Mayur Pimpude
+## ✍️ Author
+### Mayur Pimpude
