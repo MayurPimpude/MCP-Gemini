@@ -1,0 +1,5 @@
+mcp_use
+google-generativeai
+asyncio
+langchain-google-genai
+python-dotenv
